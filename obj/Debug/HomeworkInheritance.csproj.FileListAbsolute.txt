@@ -1,0 +1,14 @@
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.exe.config
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.exe
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.pdb
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.csproj.AssemblyReference.cache
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.csproj.CoreCompileInputs.cache
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.exe
+C:\Users\Nicol\source\repos\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.pdb
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.exe.config
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\bin\Debug\HomeworkInheritance.pdb
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.csprojResolveAssemblyReference.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.csproj.CoreCompileInputs.cache
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.exe
+\\tsclient\media\USB-PS3\Console app 1 PRG262\HomeworkInheritance\HomeworkInheritance\obj\Debug\HomeworkInheritance.pdb
